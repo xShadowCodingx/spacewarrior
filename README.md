@@ -1,6 +1,6 @@
 # Space Warrior
 
-A modern browser-based space shooter game built with HTML5 Canvas and JavaScript.
+A modern browser-based space shooter game built with HTML5 Canvas and JavaScript using the Cursor Editor to assist with function and README generation.
 
 ## Game Overview
 
