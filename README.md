@@ -123,9 +123,10 @@ The game is compatible with modern browsers that support:
 
 ## Getting Started
 
-1. Clone the repository
-2. Open `index.html` in a modern web browser
-3. Click "Start Game" to begin playing
+1. Play the game online: [Space Warrior](https://www.shadowcoding.com/projects/web-games/space-warrior/game.html)
+2. Clone the repository
+3. Open `game.html` in a modern web browser
+4. Click "Start Game" to begin playing
 
 ## Development
 
